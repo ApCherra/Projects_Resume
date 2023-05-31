@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="Speadsheet_Apram_Cherra/App.axaml" value="Speadsheet_Apram_Cherra/Speadsheet_Apram_Cherra.csproj" />
+        <entry key="Speadsheet_Apram_Cherra/Views/MainWindow.axaml" value="Speadsheet_Apram_Cherra/Speadsheet_Apram_Cherra.csproj" />
+        <entry key="Spreadsheet_Apram_Cherra/Views/ColorPickerPopup.axaml" value="Spreadsheet_Apram_Cherra/Spreadsheet_Apram_Cherra.csproj" />
+        <entry key="Spreadsheet_Apram_Cherra/Views/MainWindow.axaml" value="Spreadsheet_Apram_Cherra/Spreadsheet_Apram_Cherra.csproj" />
+      </map>
+    </option>
+  </component>
+</project>

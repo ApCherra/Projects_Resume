@@ -1,0 +1,230 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/apram/Desktop/Github_for_resume/Projects_Resume/cpts321_spring2023/Spreadsheet_Apram_Cherra_Tests/Spreadsheet_Apram_Cherra_Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/apram/Desktop/Github_for_resume/Projects_Resume/cpts321_spring2023/SpreadsheetEngine/SpreadsheetEngine.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/apram/Desktop/Github_for_resume/Projects_Resume/cpts321_spring2023/SpreadsheetEngine/SpreadsheetEngine.csproj",
+        "projectName": "SpreadsheetEngine",
+        "projectPath": "/Users/apram/Desktop/Github_for_resume/Projects_Resume/cpts321_spring2023/SpreadsheetEngine/SpreadsheetEngine.csproj",
+        "packagesPath": "/Users/apram/.nuget/packages/",
+        "outputPath": "/Users/apram/Desktop/Github_for_resume/Projects_Resume/cpts321_spring2023/SpreadsheetEngine/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/apram/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/apram/.dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/apram/Desktop/Github_for_resume/Projects_Resume/cpts321_spring2023/Spreadsheet_Apram_Cherra/Spreadsheet_Apram_Cherra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/apram/Desktop/Github_for_resume/Projects_Resume/cpts321_spring2023/Spreadsheet_Apram_Cherra/Spreadsheet_Apram_Cherra.csproj",
+        "projectName": "Spreadsheet_Apram_Cherra",
+        "projectPath": "/Users/apram/Desktop/Github_for_resume/Projects_Resume/cpts321_spring2023/Spreadsheet_Apram_Cherra/Spreadsheet_Apram_Cherra.csproj",
+        "packagesPath": "/Users/apram/.nuget/packages/",
+        "outputPath": "/Users/apram/Desktop/Github_for_resume/Projects_Resume/cpts321_spring2023/Spreadsheet_Apram_Cherra/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/apram/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/apram/Desktop/Github_for_resume/Projects_Resume/cpts321_spring2023/SpreadsheetEngine/SpreadsheetEngine.csproj": {
+                "projectPath": "/Users/apram/Desktop/Github_for_resume/Projects_Resume/cpts321_spring2023/SpreadsheetEngine/SpreadsheetEngine.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Avalonia": {
+              "target": "Package",
+              "version": "[0.10.18, )"
+            },
+            "Avalonia.Controls.DataGrid": {
+              "target": "Package",
+              "version": "[0.10.18, )"
+            },
+            "Avalonia.Desktop": {
+              "target": "Package",
+              "version": "[0.10.18, )"
+            },
+            "Avalonia.Diagnostics": {
+              "target": "Package",
+              "version": "[0.10.18, )"
+            },
+            "Avalonia.ReactiveUI": {
+              "target": "Package",
+              "version": "[0.10.18, )"
+            },
+            "AvaloniaColorPicker": {
+              "target": "Package",
+              "version": "[1.3.4, )"
+            },
+            "XamlNameReferenceGenerator": {
+              "target": "Package",
+              "version": "[1.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/apram/.dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/apram/Desktop/Github_for_resume/Projects_Resume/cpts321_spring2023/Spreadsheet_Apram_Cherra_Tests/Spreadsheet_Apram_Cherra_Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/apram/Desktop/Github_for_resume/Projects_Resume/cpts321_spring2023/Spreadsheet_Apram_Cherra_Tests/Spreadsheet_Apram_Cherra_Tests.csproj",
+        "projectName": "Spreadsheet_Apram_Cherra_Tests",
+        "projectPath": "/Users/apram/Desktop/Github_for_resume/Projects_Resume/cpts321_spring2023/Spreadsheet_Apram_Cherra_Tests/Spreadsheet_Apram_Cherra_Tests.csproj",
+        "packagesPath": "/Users/apram/.nuget/packages/",
+        "outputPath": "/Users/apram/Desktop/Github_for_resume/Projects_Resume/cpts321_spring2023/Spreadsheet_Apram_Cherra_Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/apram/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/apram/Desktop/Github_for_resume/Projects_Resume/cpts321_spring2023/SpreadsheetEngine/SpreadsheetEngine.csproj": {
+                "projectPath": "/Users/apram/Desktop/Github_for_resume/Projects_Resume/cpts321_spring2023/SpreadsheetEngine/SpreadsheetEngine.csproj"
+              },
+              "/Users/apram/Desktop/Github_for_resume/Projects_Resume/cpts321_spring2023/Spreadsheet_Apram_Cherra/Spreadsheet_Apram_Cherra.csproj": {
+                "projectPath": "/Users/apram/Desktop/Github_for_resume/Projects_Resume/cpts321_spring2023/Spreadsheet_Apram_Cherra/Spreadsheet_Apram_Cherra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.2, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/apram/.dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

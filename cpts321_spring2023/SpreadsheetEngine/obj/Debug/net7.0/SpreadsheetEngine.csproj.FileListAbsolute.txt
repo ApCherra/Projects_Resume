@@ -1,0 +1,12 @@
+/Users/apram/Desktop/Github_for_resume/Projects_Resume/cpts321_spring2023/SpreadsheetEngine/bin/Debug/net7.0/SpreadsheetEngine.deps.json
+/Users/apram/Desktop/Github_for_resume/Projects_Resume/cpts321_spring2023/SpreadsheetEngine/bin/Debug/net7.0/SpreadsheetEngine.dll
+/Users/apram/Desktop/Github_for_resume/Projects_Resume/cpts321_spring2023/SpreadsheetEngine/bin/Debug/net7.0/SpreadsheetEngine.pdb
+/Users/apram/Desktop/Github_for_resume/Projects_Resume/cpts321_spring2023/SpreadsheetEngine/obj/Debug/net7.0/SpreadsheetEngine.csproj.AssemblyReference.cache
+/Users/apram/Desktop/Github_for_resume/Projects_Resume/cpts321_spring2023/SpreadsheetEngine/obj/Debug/net7.0/SpreadsheetEngine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apram/Desktop/Github_for_resume/Projects_Resume/cpts321_spring2023/SpreadsheetEngine/obj/Debug/net7.0/SpreadsheetEngine.AssemblyInfoInputs.cache
+/Users/apram/Desktop/Github_for_resume/Projects_Resume/cpts321_spring2023/SpreadsheetEngine/obj/Debug/net7.0/SpreadsheetEngine.AssemblyInfo.cs
+/Users/apram/Desktop/Github_for_resume/Projects_Resume/cpts321_spring2023/SpreadsheetEngine/obj/Debug/net7.0/SpreadsheetEngine.csproj.CoreCompileInputs.cache
+/Users/apram/Desktop/Github_for_resume/Projects_Resume/cpts321_spring2023/SpreadsheetEngine/obj/Debug/net7.0/SpreadsheetEngine.dll
+/Users/apram/Desktop/Github_for_resume/Projects_Resume/cpts321_spring2023/SpreadsheetEngine/obj/Debug/net7.0/refint/SpreadsheetEngine.dll
+/Users/apram/Desktop/Github_for_resume/Projects_Resume/cpts321_spring2023/SpreadsheetEngine/obj/Debug/net7.0/SpreadsheetEngine.pdb
+/Users/apram/Desktop/Github_for_resume/Projects_Resume/cpts321_spring2023/SpreadsheetEngine/obj/Debug/net7.0/ref/SpreadsheetEngine.dll
